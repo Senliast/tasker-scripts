@@ -1,5 +1,5 @@
 # General
-This script hides sensitive tiles in quick settings when the device is locked and shows them again when the device is unlocked. Do note - this script depends on "LockStateDetector". Please download it from the same GitHub repo and set up before setting up this script. This script is suitable for Tasker. By default, the script removes Wi-Fi, Bluetoth, Mobile data, Hotspot, Airplane and NFC tiles. You can add your own by copying the actions inside the task ".OnLock" and entering names of tiles you want to remove (you need to know how they are called).
+This script hides sensitive tiles in quick settings when the device is locked and shows them again when the device is unlocked. Do note - this script depends on "LockStateDetector". Please download it from the same GitHub repo and set up before setting up this script. This script is suitable for Tasker. By default, the script removes Wi-Fi, Bluetoth, Mobile data, Hotspot, Airplane and NFC tiles. You can add your own by copying the actions inside the task ".OnLock" and entering names of tiles you want to remove (you need to know how they are called). Download the script HideSensitiveQuickSettingsOnLockscreen from releases: https://github.com/Senliast/Tasker_scripts/releases
 
 # Installation
 1. Set up "LockStateDetector" according to the relevant instructions.
