@@ -3,8 +3,8 @@ This script hides sensitive tiles in quick settings when the device is locked an
 
 # Installation
 1. Set up "LockStateDetector" according to the relevant instructions.
-2. Import files from the "tasks" folder as tasks in Tasker.
-3. Import files from the "profiles" folder as profiles in Tasker.
+2. Import files from the "tasks" folder as tasks in Tasker (tap on "tasks" tab ans select "import a task").
+3. Import files from the "profiles" folder as profiles in Tasker (tap on "profiles" tab ans select "import a profile").
 
 # Uninstalling
 1. Remove all profiles that start with "HideSensitiveQuickSettingsOnLockscreen" in Tasker.
