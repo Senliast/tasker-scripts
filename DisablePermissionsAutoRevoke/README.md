@@ -3,10 +3,11 @@ Google introduced a new auto-reset permissions feature with Android 11 to automa
 
 ![Android 11 automatic permissions revoke](https://github.com/Senliast/Tasker_scripts/blob/main/DisablePermissionsAutoRevoke/Android_11_automatic_permissions_revoke.jpg)
 
-# Installation
-1. Import files from the "tasks" folder as tasks in Tasker (tap on "tasks" tab and select "import a task").
-2. Import files from the "profiles" folder as profiles in Tasker (tap on "profiles" tab and select "import a profile").
-3. Place the shell script (the file itself, without folder) in the "sdcard/.ServiceData" folder.
+Installation
+1. Place the shell script (the file itself, without folder) in the "sdcard/.ServiceData" folder.
+2. Import files from the "tasks" folder as tasks in Tasker (tap on "tasks" tab and select "import a task").
+3. Import files from the "profiles" folder as profiles in Tasker (tap on "profiles" tab and select "import a profile").
+4. Reboot the device or completely stop (disable) Tasker and then start it again.
 
 # Uninstalling
 1. Remove all profiles that start with "DisablePermissionsAutoRevoke" in Tasker.
