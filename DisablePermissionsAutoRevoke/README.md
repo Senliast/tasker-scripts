@@ -1,5 +1,5 @@
 # DisablePermissionsAutoRevoke
-![Android 11 automatic permissions revoke](https://github.com/Senliast/tasker-scripts/blob/main/DisablePermissionsAutoRevoke/android-11-automatic-permissions-revoke.jpg)
+![Android 11 automatic permissions revoke](https://github.com/Senliast/tasker-scripts/blob/main/DisablePermissionsAutoRevoke/docs/android-11-automatic-permissions-revoke.jpg)
 
 ## About
 Google introduced a new auto-reset permissions feature with Android 11 to automatically revoke sensitive runtime permissions from apps that have not been in use for a few months. You can disable it, but you have to do it for every app separately. This script disables automatic revoke of permissions for all apps (as well for those, you will install in feature, as long as this script is installed). Do note: this script is dependent on the shell script of the same name. Do note: this script needs root privileges. Please dont use it if you have Android 10 or lower, because it uses another mechanism for permissions revoke! This script is suitable for Tasker.
