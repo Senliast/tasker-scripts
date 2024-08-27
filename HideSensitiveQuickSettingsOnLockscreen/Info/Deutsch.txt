@@ -1,0 +1,12 @@
+Allgemein
+Dieses Skript blendet sensible Kacheln in den Schnelleinstellungen aus, wenn das Gerät gesperrt ist, und zeigt sie wieder an, wenn das Gerät entsperrt ist. Dieses Skript ist für Tasker geeignet. Standardmäßig entfernt das Skript WLAN-, Bluetooth-, mobile Daten-, Hotspot-, Flugzeug- und NFC-Kacheln. Du kannst deine eigenen hinzufügen, indem du die Aktionen innerhalb der Aufgabe „.OnLock“ kopierst und Namen der Kacheln eingebst, die du entfernen möchtest (du musst wissen, wie sie heißen). Beachte, dass dieses Skript von „LockStateDetector“ (https://github.com/Senliast/Tasker_scripts/tree/main/LockStateDetector) abhängt. Bitte lade es herunter und richte es ein, bevor du dieses Skript einrichtest.
+
+Installation
+1. Richte „LockStateDetector“ gemäß der entsprechenden Anleitung ein.
+2. Importiere Dateien aus dem Ordner „Aufgaben“ als Aufgaben in Tasker (tippe auf die Registerkarte „Aufgaben“ und wähle „Aufgabe importieren“ aus).
+3. Importiere Dateien aus dem Ordner „Profile“ als Profile in Tasker (tippe auf die Registerkarte „Profile“ und wähle „Profil importieren“ aus).
+
+Deinstallation
+1. Entferne alle Profile, die mit „HideSensitiveQuickSettingsOnLockscreen“ beginnen, in Tasker.
+2. Entferne alle Aufgaben, die mit „HideSensitiveQuickSettingsOnLockscreen“ beginnen, im Tasker.
+3. Entferne „LockStateDetector“ gemäß den Anweisungen, sofern es nicht von anderen Skripten verwendet wird.
