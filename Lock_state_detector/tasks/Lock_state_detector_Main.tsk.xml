@@ -1,7 +1,7 @@
 <TaskerData sr="" dvi="1" tv="6.3.13">
 	<Task sr="task59">
 		<cdate>1450924357398</cdate>
-		<edate>1734966425291</edate>
+		<edate>1735373176760</edate>
 		<id>59</id>
 		<nme>Lock_state_detector-Main</nme>
 		<pri>6</pri>
@@ -53,7 +53,7 @@
 			<code>135</code>
 			<Int sr="arg0" val="1"/>
 			<Int sr="arg1" val="1"/>
-			<Str sr="arg2" ve="3">AfterStart</Str>
+			<Str sr="arg2" ve="3">After_start</Str>
 		</Action>
 		<Action sr="act2" ve="7">
 			<code>547</code>
@@ -106,7 +106,7 @@
 		</Action>
 		<Action sr="act6" ve="7">
 			<code>664</code>
-			<label>AfterStart</label>
+			<label>After_start</label>
 			<Str sr="arg0" ve="3">kgm</Str>
 			<Str sr="arg1" ve="3">CONTEXT</Str>
 			<Str sr="arg2" ve="3">getSystemService
