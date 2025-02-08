@@ -1,17 +1,4 @@
 <TaskerData sr="" dvi="1" tv="6.3.13">
-	<Profile sr="prof79" ve="2">
-		<cdate>1734964784487</cdate>
-		<clp>true</clp>
-		<edate>1739021023979</edate>
-		<flags>8</flags>
-		<id>79</id>
-		<mid0>5</mid0>
-		<nme>Lock_state_detector-On_startup</nme>
-		<Event sr="con0" ve="2">
-			<code>307</code>
-			<pri>0</pri>
-		</Event>
-	</Profile>
 	<Task sr="task5">
 		<cdate>1739024437001</cdate>
 		<edate>1739028551811</edate>
