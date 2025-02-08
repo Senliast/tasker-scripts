@@ -10,6 +10,13 @@ You can download latest release from: https://github.com/Senliast/tasker-scripts
 2. Import files from the "profiles" folder as profiles in Tasker (tap on "profiles" tab and select "import a profile").
 3. Reboot the device or completely stop (disable) Tasker and then start it again.
 
+## Updating
+1. Remove all profiles starting with "Lock_state_detector" in Tasker.
+2. Remove all tasks starting with "Lock_state_detector" in Tasker.
+3. Import files from the "tasks" folder as tasks in Tasker (tap on "tasks" tab and select "import a task").
+4. Import files from the "profiles" folder as profiles in Tasker (tap on "profiles" tab and select "import a profile").
+5. Reboot the device or completely stop (disable) Tasker and then start it again.
+
 ## Uninstalling
 1. Remove all profiles starting with "Lock_state_detector" in Tasker.
 2. Remove all tasks starting with "Lock_state_detector" in Tasker.
