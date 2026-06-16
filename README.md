@@ -1,2 +1,3 @@
 # About
-This is collection of scripts written by me, which works in the Android application Tasker. Feel free to use them.
+
+This is a collection of my projects for the Android application Tasker.
